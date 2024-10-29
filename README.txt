@@ -29,3 +29,7 @@ import subprocess
 chartly_path = path_to_app
 subprocess.Popen(['python3', f'{chartly_path}app.py', '--file', f'{chartly_path}your_dataset.csv'])
 '''
+
+--------------------------------------------
+
+There are some files and functions for my future ideas.
